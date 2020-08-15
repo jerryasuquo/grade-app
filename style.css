@@ -1,0 +1,44 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 5% 0 0 40%;
+}
+
+main {
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 370px;
+    height: 470px;
+    padding: 4px;
+}
+
+.top {
+    padding: 15px 25px 10px 40px;
+    width: 305px;
+    background-color: black;
+    text-align: center;
+}
+
+.top p {
+    color: white;
+    text-align: center;
+}
+
+form {
+    padding-top: 15px;
+}
+
+
+.total {
+    padding: 5px 40px;
+    margin: 2% 0 0 16%;
+    background-color: cadetblue;
+    color: white;
+    border: none;
+}
